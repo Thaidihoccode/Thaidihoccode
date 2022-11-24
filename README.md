@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Thaidihoccode
-- 👀 I’m interested in computer
-- 🌱 I’m currently learning C code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in girl Kinh Tế
+- 🌱 I’m currently learning Java code
+- 📫 How to reach me thaindhe172237@fpt.edu.vn
 
 <!---
 Thaidihoccode/Thaidihoccode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
